@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "firstName": "Franklin",
+        "lastName": "Delos Santos",
+        "email": "frankdelos@mail.fresnostate.edu",
+        "phone": "(559)111-111",
+        "editing": false
+    },
+    {
+
+        "id": 2,
+        "firstName": "Mike",
+        "lastName": "Tyson",
+        "email": "mike@yahoo.com",
+        "phone": "(559)696-9696",
+        "editing": false
+
+    },
+    {
+
+        "id": 3,
+        "firstName": "Tom",
+        "lastName": "Brady",
+        "email": "tombrady@yahoo.com",
+        "phone": "(559)111-2121",
+        "editing": false
+
+    }
+]
