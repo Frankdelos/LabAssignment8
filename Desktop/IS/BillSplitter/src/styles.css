@@ -1,1 +1,44 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* @import '~@angular/material/prebuilt-themes/deeppurple-amber.css'; */
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #5c8ddde7;
+  }
+
+  .align-center{
+    margin: 15px;
+    border: 1px;
+  }
+
+  .nav-button{
+    margin-right: 8px !important;
+  }
+  .table{
+    width: 100%;
+    border: 1px solid #1b77da;
+}
+
+.table > tbody > tr > td, .table > thead > tr > td {
+    border: 1px solid #1b77da;
+    min-height: 50px;
+    padding: .5em;
+
+
+}
+
+h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+table{
+  table-layout: fixed;
+   
+}
